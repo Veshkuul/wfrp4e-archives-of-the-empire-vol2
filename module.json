@@ -1,0 +1,14 @@
+{
+    "name": "wfrp4e-archives-of-the-empire-vol2",
+    "title": "WFRP4e - Archives of the Empire Vol. 2",
+    "description": "Archives of the Empire Vol. 2",
+    "version": "1.0.0",
+    "author": "Veshkuul",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "packs": [
+        
+    ],
+    "url": "https://github.com/Veshkuul/wfrp4e-archives-of-the-empire-vol2",
+    "manifest": "https://github.com/Veshkuul/wfrp4e-archives-of-the-empire-vol2/releases/download/1.0.0/module.json"
+}
